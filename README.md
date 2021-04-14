@@ -44,6 +44,7 @@ The search time was seven days, but the script was run in only two days (48h).
 
 ## Running script
 ## Check your Chrome version by typing on URL chrome://version and get the ChromeDriver that suits your browser and drop it to the driver folder 
+## Chrome Drivers - https://chromedriver.chromium.org/downloads
 ```python
 pip install -r requirements.txt
 python app.py
