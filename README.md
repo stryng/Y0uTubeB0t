@@ -1,4 +1,4 @@
-# Y0uTubeB0t - v0.0.34
+# Y0uTubeB0t - v1.0.0
 Simple bot that was development in Python 3.7, that automatically watch youtube videos. It can be used to give more views in your channel helping in the spread and increase followers/subscribers because your videos begin to gain new positions in research mechanics.
 
 ## PoC - Proof of Concept
