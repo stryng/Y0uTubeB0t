@@ -29,6 +29,12 @@ class Controller():
             # load video url in chrome driver
             driver.get(video_url)
 
+            # Bypassing YT Agreement Button (TODO needs to be fetched based on element ID)
+            #            driver._switch_to.frame("iframe")
+            #            driver.switch_to.default_content()
+            #            aggreeButton = driver.find_element_by_id("introAgreeButton")
+            #            aggreeButton.click()
+
             # minimize window
             driver.minimize_window()
 
