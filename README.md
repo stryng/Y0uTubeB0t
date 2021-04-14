@@ -5,13 +5,16 @@ Simple bot that was development in Python 3.7, that automatically watch youtube 
 
 ### PoC - Overview
 The search time was seven days, but the script was run in only two days (48h).
-![Overview](underDev)
+![Overview]
+(underDev)
 
 ### PoC - Reach
-![Reach](underDev)
+![Reach]
+(underDev)
 
 ## PoC - Script image
-![Script](underDev)
+![Script]
+(underDev)
 
 ## PoC - Description
 - The script reads the "./config/playlist.json" file, multiplies the instance for each video by the configured value, and starts the chromedriver. - The mechanic has a system that identifies that the video is running, at the end it will be loaded again generating a view.
